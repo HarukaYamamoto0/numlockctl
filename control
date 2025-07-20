@@ -1,0 +1,8 @@
+Package: numlockctl
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Depends: build-essential, libx11-dev, libxtst-dev
+Maintainer: HarukaYamamoto0 <harukayamamotodev@gmail.com>
+Description: A simple command line utility to enable or disable the NumLock key in the Linux graphical environment (X11).
